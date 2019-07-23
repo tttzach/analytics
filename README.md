@@ -3,9 +3,8 @@ Data Anaytics for Reddit tool scrapes posts from Reddit using the Python Reddit 
 
 Here are some examples of visualizations from the /r/uwaterloo subreddit.
 
-![Screenshot1 goes here.](screenshot1.jpg)
-![Screenshot2 goes here.](screenshot2.jpg)
-![Screenshot3 goes here.](screenshot3.jpg)
+![Screenshot1 goes here.](screenshot1.png)
+![Screenshot2 goes here.](screenshot2.png)
 
 Possible improvements:
 Use dates instead of posts for x-axis.
